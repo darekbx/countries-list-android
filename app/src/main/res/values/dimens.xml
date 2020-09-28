@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="progressSize">60dp</dimen>
+    <dimen name="refreshSize">48dp</dimen>
+    <dimen name="paddingDefault">16dp</dimen>
+    <dimen name="paddingDouble">32dp</dimen>
+</resources>

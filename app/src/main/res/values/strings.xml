@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Countries List</string>
+    <string name="loading_error_unknown">An error occurred during loading list.</string>
+    <string name="loading_error_no_internet">Internet connection is unavailable, please check connection and try again.</string>
+    <string name="refresh">Refresh</string>
+    <string name="refresh_now">Refresh Now</string>
+    <string name="currencies_title">Currencies:</string>
+    <string name="phone_number_code_title">Phone number codes: </string>
+    <string name="domain_names_title">Domain names: </string>
+</resources>
